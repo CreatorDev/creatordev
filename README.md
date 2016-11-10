@@ -10,4 +10,4 @@ The Creatordev Github organisation holds the open source projects producted by t
 
 Our open source projects on Github can be seen by browsing to the top level list of repositories for (Creatordev)[http://github.com/creatordev].
 
-You'll find info on the MIPS development boards at our documentation site (http://docs.creatordev.io)[http://docs.creatordev.io], or visit the forum linked at the top of this README.
+You'll find info on the MIPS development boards at our documentation site [http://docs.creatordev.io](http://docs.creatordev.io), or visit the forum linked at the top of this README.
